@@ -1,2 +1,2 @@
-# eskul-sacode
+# ekskul-sacode
 Ekskul SaCode
